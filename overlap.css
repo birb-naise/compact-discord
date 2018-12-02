@@ -1,0 +1,25 @@
+/*not hover*/
+.guild-1EfMGQ + .guild-1EfMGQ:not(button) {
+    margin-top: -25px;
+    transition: 250ms !important;
+        -webkit-transition: 250ms !important;
+        -moz-transition: 250ms !important;
+    transition-delay: 50ms !important;
+        -webkit-transition-delay: 50ms !important;
+        -moz-transition-delay: 50ms !important;
+    transition-timing-function: ease !important;
+        -webkit-transition-timing-function: ease !important;
+        -moz-transition-timing-function: ease !important;
+}
+.wrapper-232cHJ {
+    margin-right: -5px !important;
+}
+
+/*hover*/
+.guild-1EfMGQ + .guild-1EfMGQ:hover:not(button) {
+    margin-top: 5px;
+    margin-bottom: 28px;
+    transition-delay: 38ms !important;
+        -webkit-transition-delay: 38ms !important;
+        -moz-transition-delay: 38ms !important;
+}
