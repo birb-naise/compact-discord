@@ -1,7 +1,7 @@
 # compact-discord
 Custom CSS so more Discord server icons can fit on the screen
 
-### Userstyles (Stylish) Download: https://userstyles.org/styles/157282/discord-compact-server-icons
+### Userstyles (Stylish) <a href="https://userstyles.org/styles/157282/discord-compact-server-icons">Download</a>
 
 Comes in 3 flavors:
 
