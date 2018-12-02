@@ -1,0 +1,25 @@
+@-moz-document domain("discordapp.com") {
+/*[[style]]*/
+
+/* home icon */
+.homeIcon-1FoKUJ > g:nth-child(2){
+    display: none !important;
+}
+.homeIcon-1FoKUJ {
+    background-image: url("/*[[icon]]*/") !important;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    padding-bottom: 30px !important;
+    margin-left: -3px;
+}
+
+/* unread indicator */
+.unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh {
+    opacity: /*[[unread]]*/ !important;
+}
+
+/* hide download */
+.downloadAppButton-3EFlA6 {
+    display: none !important;
+}
+}
