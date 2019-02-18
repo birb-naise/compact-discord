@@ -2,95 +2,90 @@
 .guild-1EfMGQ .guildInner-3DSoA4 a,
 .guild-1EfMGQ .guildInner-3DSoA4,
 .guild-1EfMGQ {
-    height: 25px !important;
-    width: 25px !important;
-    transition: 150ms !important;
-        -webkit-transition: 150ms !important;
-        -moz-transition: 150ms !important;
+	height: 25px !important;
+	width: 25px !important;
+    	transition: 150ms !important;
+        	-webkit-transition: 150ms !important;
+        	-moz-transition: 150ms !important;
 	transition-property: height, width, margin !important;
 		-webkit-transition-property: height, width, margin !important;
 		-moz-transition-property: height, width, margin !important;
-    transition-delay: 50ms !important;
-        -webkit-transition-delay: 50ms !important;
-        -moz-transition-delay: 50ms !important;
-    transition-timing-function: ease !important;
-        -webkit-transition-timing-function: ease !important;
-        -moz-transition-timing-function: ease !important;
+    	transition-delay: 50ms !important;
+        	-webkit-transition-delay: 50ms !important;
+        	-moz-transition-delay: 50ms !important;
+    	transition-timing-function: ease !important;
+        	-webkit-transition-timing-function: ease !important;
+        	-moz-transition-timing-function: ease !important;
 }
 .iconSizeLarge-161qtT:not(.guildIconImageJoined-SepVdI):not(.guildIcon-lQ0uiM),
 .guild-1EfMGQ .avatar-small {
-    height: 100% !important;
-    width: 100% !important;
+	height: 100% !important;
+	width: 100% !important;
 	background-size: 100%
 }
 .guilds-1q_RqH > div:nth-child(1) > div:nth-child(1),
 .guilds-1q_RqH > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
-    height: 50px !important;
-    width: 50px !important;
-    border: none;
-    margin-left: 1.5px;
+ 	height: 50px !important;
+ 	width: 50px !important;
+	border: none;
+ 	margin-left: 1.5px;
 }
 button.guild-1EfMGQ,
-.guilds-1q_RqH > div:nth-child(1) {
+.guilds-1q_RqH > div:nth-child(1),
+a.guild-1EfMGQ {
 	height: 50px !important;
-    width: 50px !important;
+	width: 50px !important;
 	margin-left: 4px;
-}
-button.guild-1EfMGQ {
-	top: 15px;
 }
 .friendsOnline-_wi_fM {
 	margin-left: 0 !important;
 	padding-left: 5px !important;
 }
 .guildsWrapper-5TJh6A {
-    width: 80px !important;
+    	width: 80px !important;
 }
-.scrollbar,
-.scroller-wrap .scrollbar::after,
-.scroller-wrap .scrollbar .thumb,
-.scroller-wrap .scrollbar .track,
-.scroller-wrap .scrollbar .thumb::after {
+.theme-dark .scrollerWrap-2lJEkd .scrollbar-2rkZSL
+.theme-dark .scrollerWrap-2lJEkd .scrollbar-2rkZSL .pad-29zQak {
 	background: none !important;
 	border: none !important;
 }
 .guild-1EfMGQ:nth-child(even):not(button) {
-    margin-left: 33px;
-    margin-bottom: -33px;
-    bottom: /*[[icolign]]*/;
+    	margin-left: 33px;
+    	margin-bottom: -33px;
+    	bottom: /*[[icolign]]*/;
 }
 .guild-1EfMGQ.unread-qLkInr::before {
-    margin-left: 9px;
-    z-index: 9 !important;
-    border: 2px solid #202225;
-    border-radius: 10px;
+    	margin-left: 9px;
+    	z-index: 9 !important;
+    	border: 2px solid #202225;
+    	border-radius: 10px;
 }
 .guild-1EfMGQ.selected-ML3OIq::before {
-    margin-left: 9px;
-    margin-top: -7px !important;
-    z-index: 9 !important;
-    border: 2px solid #202225;
-    border-radius: 10px;
-    height: 10px;
+    	margin-left: 9px;
+    	margin-top: -7px !important;
+    	z-index: 9 !important;
+    	border: 2px solid #202225;
+    	border-radius: 10px;
+    	height: 10px;
 }
 .wrapper-232cHJ {
-    bottom: -7px !important;
-    right: -2px !important;
-    padding: 2px 6px;
+    	bottom: -7px !important;
+    	right: -2px !important;
+    	padding: 2px 6px;
 }
 
 /* hover */
 .guild-1EfMGQ .guildInner-3DSoA4 a:hover,
 .guild-1EfMGQ .guildInner-3DSoA4:hover,
 .guild-1EfMGQ:hover {
-    height: 50px !important;
-    width: 50px !important;
+    	height: 50px !important;
+    	width: 50px !important;
 }
 .guild-1EfMGQ:nth-child(even):not(button):hover {
-    margin-left: 5px;
-    margin-bottom: -33px;
-    bottom: /*[[icolign]]*/;
+    	margin-left: 5px;
+    	margin-bottom: -33px;
+    	bottom: /*[[icolign]]*/;
 }
 .tooltips {
-    left: 20px;
+    	left: 20px;
 }
