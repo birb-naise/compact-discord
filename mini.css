@@ -42,50 +42,48 @@ a.guild-1EfMGQ {
 	padding-left: 5px !important;
 }
 .guildsWrapper-5TJh6A {
-    	width: 80px !important;
+    width: 80px !important;
 }
-.theme-dark .scrollerWrap-2lJEkd .scrollbar-2rkZSL
-.theme-dark .scrollerWrap-2lJEkd .scrollbar-2rkZSL .pad-29zQak {
-	background: none !important;
-	border: none !important;
+.scrollbar-2rkZSL {
+	display: none !important;
 }
 .guild-1EfMGQ:nth-child(even):not(button) {
-    	margin-left: 33px;
-    	margin-bottom: -33px;
-    	bottom: /*[[icolign]]*/;
+    margin-left: 33px;
+   	margin-bottom: -33px;
+    bottom: /*[[icolign]]*/;
 }
 .guild-1EfMGQ.unread-qLkInr::before {
-    	margin-left: 9px;
-    	z-index: 9 !important;
-    	border: 2px solid #202225;
-    	border-radius: 10px;
+    margin-left: 9px;
+   	z-index: 9 !important;
+    border: 2px solid #202225;
+   	border-radius: 10px;
 }
 .guild-1EfMGQ.selected-ML3OIq::before {
-    	margin-left: 9px;
-    	margin-top: -7px !important;
-    	z-index: 9 !important;
-    	border: 2px solid #202225;
-    	border-radius: 10px;
-    	height: 10px;
+    margin-left: 9px;
+   	margin-top: -7px !important;
+    z-index: 9 !important;
+   	border: 2px solid #202225;
+    border-radius: 10px;
+   	height: 10px;
 }
 .wrapper-232cHJ {
-    	bottom: -7px !important;
-    	right: -2px !important;
-    	padding: 2px 6px;
+    bottom: -7px !important;
+   	right: -2px !important;
+    padding: 2px 6px;
 }
 
 /* hover */
 .guild-1EfMGQ .guildInner-3DSoA4 a:hover,
 .guild-1EfMGQ .guildInner-3DSoA4:hover,
 .guild-1EfMGQ:hover {
-    	height: 50px !important;
-    	width: 50px !important;
+    height: 50px !important;
+   	width: 50px !important;
 }
 .guild-1EfMGQ:nth-child(even):not(button):hover {
-    	margin-left: 5px;
-    	margin-bottom: -33px;
-    	bottom: /*[[icolign]]*/;
+    margin-left: 5px;
+   	margin-bottom: -33px;
+    bottom: /*[[icolign]]*/;
 }
 .tooltips {
-    	left: 20px;
+    left: 20px;
 }
