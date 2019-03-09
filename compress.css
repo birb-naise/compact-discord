@@ -1,33 +1,38 @@
 /*not hover*/
-.guild-1EfMGQ:not(.guildsAdd-21_IdK),
-.guild-1EfMGQ .guildInner-3DSoA4 a,
-.guild-1EfMGQ .guildInner-3DSoA4 {
-    height: 25px !important;
-}
-.guild-1EfMGQ:not(.guildsAdd-21_IdK),
-.guilds-wrapper .guilds .guild .guild-inner a,
-.guild-1EfMGQ .guildIcon-CT-ZDq,
-.guild-1EfMGQ .guildInner-3DSoA4 a,
-.guild-1EfMGQ .guildInner-3DSoA4,
-.homeIcon-1FoKUJ {
-    background-position: 0 -10px;
-    transition: 250ms !important;
-        -webkit-transition: 250ms !important;
-        -moz-transition: 250ms !important;
-    transition-timing-function: ease;
-        -webkit-transition-timing-function: ease;
-        -moz-transition-timing-function: ease;
-    transition-property: height, background-position !important;
+.container-2td-dC,
+.iconSizeLarge-161qtT,
+.container-1aNBdK,
+.avatar-3f3jk4,
+.container-1aNBdK > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+	height: 25px !important;
+	background-size: 50px !important;
+	background-position: 0 -10px;
+	transition: 250ms !important;
+		-webkit-transition: 250ms !important;
+		-moz-transition: 250ms !important;
+	transition-timing-function: ease;
+		-webkit-transition-timing-function: ease;
+		-moz-transition-timing-function: ease;
+	transition-property: height, background-position !important;
 		-webkit-transition-property: height, background-position !important;
 		-moz-transition-property: height, background-position !important;
 }
+.container-1aNBdK {
+	margin-bottom: 10px;
+}
+.badge-3dItlm {
+	height: 10px;
+}
+.wrapper-232cHJ {
+	top: 10px;
+}
 
 /*hover*/
-.guild-1EfMGQ:not(.guildsAdd-21_IdK):hover,
-.guild-1EfMGQ .guildInner-3DSoA4 a:hover,
-.guild-1EfMGQ .guildInner-3DSoA4:hover,
-.guild-1EfMGQ .guildIcon-CT-ZDq:hover,
-.homeIcon-1FoKUJ:hover {
-    height: 50px !important;
-    background-position: 0;
+.container-2td-dC:hover,
+.container-1aNBdK:hover {
+    margin-bottom: 5px;
+    margin-top: 28px;
+    transition-delay: 38ms !important;
+        -webkit-transition-delay: 38ms !important;
+        -moz-transition-delay: 38ms !important;
 }
