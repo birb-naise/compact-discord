@@ -1,25 +1,36 @@
 /*not hover*/
-.guild-1EfMGQ + .guild-1EfMGQ:not(button) {
-    margin-top: -25px;
-    transition: 250ms !important;
-        -webkit-transition: 250ms !important;
-        -moz-transition: 250ms !important;
-    transition-delay: 50ms !important;
-        -webkit-transition-delay: 50ms !important;
-        -moz-transition-delay: 50ms !important;
-    transition-timing-function: ease !important;
-        -webkit-transition-timing-function: ease !important;
-        -moz-transition-timing-function: ease !important;
+.container-2td-dC,
+.container-1aNBdK {
+	margin-bottom: -25px;
+	transition: 250ms !important;
+		-webkit-transition: 250ms !important;
+		-moz-transition: 250ms !important;
+	transition-delay: 50ms !important;
+		-webkit-transition-delay: 50ms !important;
+		-moz-transition-delay: 50ms !important;
+	transition-timing-function: ease !important;
+		-webkit-transition-timing-function: ease !important;
+		-moz-transition-timing-function: ease !important;
 }
 .wrapper-232cHJ {
-    margin-right: -5px !important;
+	margin-right: -5px !important;
+}
+.guildSeparator-3s64Iy {
+	margin-top: 20px;
+}
+.circleIconButton-jET_ig {
+	margin-top: 35px;
+}
+.container-11WMXy > div:nth-child(1) {
+	margin: 0 !important;
 }
 
 /*hover*/
-.guild-1EfMGQ + .guild-1EfMGQ:hover:not(button) {
-    margin-top: 5px;
-    margin-bottom: 28px;
-    transition-delay: 38ms !important;
-        -webkit-transition-delay: 38ms !important;
-        -moz-transition-delay: 38ms !important;
+.container-2td-dC:hover,
+.container-1aNBdK:hover {
+	margin-bottom: 5px;
+	margin-top: 28px;
+	transition-delay: 38ms !important;
+		-webkit-transition-delay: 38ms !important;
+		-moz-transition-delay: 38ms !important;
 }
