@@ -29,10 +29,10 @@
 
 /*hover*/
 .container-2td-dC:hover,
-.container-1aNBdK:hover {
-    margin-bottom: 5px;
-    margin-top: 28px;
-    transition-delay: 38ms !important;
-        -webkit-transition-delay: 38ms !important;
-        -moz-transition-delay: 38ms !important;
+.iconSizeLarge-161qtT:hover,
+.container-1aNBdK:hover,
+.avatar-3f3jk4:hover,
+.container-1aNBdK > div:nth-child(1) > div:nth-child(1) > a:nth-child(1):hover {
+	height: 50px !important;
+	background-position: 0;
 }
