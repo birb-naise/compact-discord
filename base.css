@@ -2,10 +2,10 @@
 /*[[style]]*/
 
 /* home icon */
-.homeIcon-1FoKUJ > g:nth-child(2){
+.homeIcon-tEMBK1 > g:nth-child(2){
     display: none !important;
 }
-.homeIcon-1FoKUJ {
+.homeIcon-tEMBK1 {
     background-image: url("/*[[icon]]*/") !important;
     background-repeat: no-repeat;
     background-size: cover !important;
